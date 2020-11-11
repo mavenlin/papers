@@ -1,0 +1,532 @@
+
+** TODO 2020 - Online Anomaly Detection With Bandwidth Optimized Hierarchical Kernel Density Estimators
+ :PROPERTIES:
+  :Custom_ID: kerpicci20_onlin_anomal_detec_with_bandw
+  :AUTHOR: Mine Kerpicci, Huseyin Ozkan \& Suleyman Serdar Kozat
+  :JOURNAL: IEEE Transactions on Neural Networks and Learning Systems
+  :YEAR: 2020
+  :VOLUME: nil
+  :PAGES: 1-14
+  :DOI: 10.1109/tnnls.2020.3017675
+  :URL: https://doi.org/10.1109/tnnls.2020.3017675
+ :END:
+
+cite:kerpicci20_onlin_anomal_detec_with_bandw
+tags:online,density_estimation
+
+** TODO 2017 - Estimating Mixture Entropy With Pairwise Distances
+ :PROPERTIES:
+  :Custom_ID: kolchinsky17_estim_mixtur_entrop_with_pairw_distan
+  :AUTHOR: Artemy Kolchinsky \& Brendan Tracey
+  :JOURNAL: Entropy
+  :YEAR: 2017
+  :VOLUME: 19
+  :PAGES: 361
+  :DOI: 10.3390/e19070361
+  :URL: https://doi.org/10.3390/e19070361
+ :END:
+
+cite:kolchinsky17_estim_mixtur_entrop_with_pairw_distan
+tags:estimation,bound
+
+** TODO 2014 - An Empirical Study of the Classification Performance of Learners on Imbalanced and Noisy Software Quality Data
+ :PROPERTIES:
+  :Custom_ID: seiffert14_empir_study_class_perfor_learn
+  :AUTHOR: Chris Seiffert, Taghi Khoshgoftaar, Jason Van Hulse \& Andres Folleco
+  :JOURNAL: Information Sciences
+  :YEAR: 2014
+  :VOLUME: 259
+  :PAGES: 571-595
+  :DOI: 10.1016/j.ins.2010.12.016
+  :URL: https://doi.org/10.1016/j.ins.2010.12.016
+ :END:
+
+cite:seiffert14_empir_study_class_perfor_learn
+tags:imbalance
+
+** TODO 2007 - Estimating Mutual Information Via Kolmogorov Distance
+ :PROPERTIES:
+  :Custom_ID: zhang07_estim_mutual_infor_via_kolmog_distan
+  :AUTHOR: Zhengmin Zhang
+  :JOURNAL: IEEE Transactions on Information Theory
+  :YEAR: 2007
+  :VOLUME: 53
+  :PAGES: 3280-3282
+  :DOI: 10.1109/tit.2007.903122
+  :URL: https://doi.org/10.1109/tit.2007.903122
+ :END:
+
+cite:zhang07_estim_mutual_infor_via_kolmog_distan
+tags:estimation
+
+** TODO 2020 - Large Associative Memory Problem in Neurobiology and Machine Learning
+ :PROPERTIES:
+  :Custom_ID: krotov20_large_assoc_memor_probl_neurob_machin_learn
+  :AUTHOR: Krotov \& Hopfield
+  :JOURNAL: CoRR
+  :YEAR: 2020
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/2008.06996v1
+ :END:
+
+cite:krotov20_large_assoc_memor_probl_neurob_machin_learn
+tags:hopfield
+
+** TODO 2017 - Variational Dropout Sparsifies Deep Neural Networks
+ :PROPERTIES:
+  :Custom_ID: molchanov17_variat_dropout_spars_deep_neural_networ
+  :AUTHOR: Molchanov, Ashukha \& Vetrov
+  :JOURNAL: CoRR
+  :YEAR: 2017
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1701.05369v3
+ :END:
+
+cite:molchanov17_variat_dropout_spars_deep_neural_networ
+tags:bayes,pac,dropout,compression
+
+** TODO 2020 - Balancing Reconstruction Error and Kullback-Leibler Divergence in Variational Autoencoders
+ :PROPERTIES:
+  :Custom_ID: asperti20_balan_recon_error_kullb_leibl
+  :AUTHOR: Asperti \& Trentin
+  :JOURNAL: CoRR
+  :YEAR: 2020
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/2002.07514v1
+ :END:
+
+cite:asperti20_balan_recon_error_kullb_leibl
+tags:vae
+
+** TODO 2017 - Bayesian Compression for Deep Learning
+ :PROPERTIES:
+  :Custom_ID: bayes_compr_for_deep_learn
+  :AUTHOR: Louizos, Ullrich \& Welling
+  :JOURNAL:
+  :YEAR: 2017
+  :VOLUME:
+  :PAGES: 3288--3298
+  :DOI:
+  :URL: http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning.pdf
+ :END:
+
+cite:bayes_compr_for_deep_learn
+tags:
+** TODO 2018 - Associative Compression Networks for Representation Learning
+ :PROPERTIES:
+  :Custom_ID: graves18_assoc_compr_networ_repres_learn
+  :AUTHOR: Graves, Menick \& Oord
+  :JOURNAL: CoRR
+  :YEAR: 2018
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1804.02476v2
+ :END:
+
+cite:graves18_assoc_compr_networ_repres_learn
+tags:compression,mdl,vae
+
+** TODO 2020 - Linformer: Self-Attention With Linear Complexity
+ :PROPERTIES:
+  :Custom_ID: wang20_linfor
+  :AUTHOR: Wang, Li, Khabsa, Fang \& Ma
+  :JOURNAL: CoRR
+  :YEAR: 2020
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/2006.04768v3
+ :END:
+
+cite:wang20_linfor
+tags:transformer,accelerate
+
+** TODO 2020 - Fast Transformers With Clustered Attention
+ :PROPERTIES:
+  :Custom_ID: vyas20_fast_trans_with_clust_atten
+  :AUTHOR: Vyas, Katharopoulos \& Fleuret
+  :JOURNAL: CoRR
+  :YEAR: 2020
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/2007.04825v1
+ :END:
+
+cite:vyas20_fast_trans_with_clust_atten
+tags:transformer,accelerate
+
+** TODO 2020 - Reformer: the Efficient Transformer
+ :PROPERTIES:
+  :Custom_ID: kitaev20_refor
+  :AUTHOR: Kitaev, Kaiser \& Levskaya
+  :JOURNAL: CoRR
+  :YEAR: 2020
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/2001.04451v2
+ :END:
+
+cite:kitaev20_refor
+tags:transformer,accelerate
+
+** TODO 2020 - Regularized Autoencoders Via Relaxed Injective Probability Flow
+ :PROPERTIES:
+  :Custom_ID: kumar20_regul_autoen_via_relax_injec_probab_flow
+  :AUTHOR: Kumar, Poole \& Murphy
+  :JOURNAL: CoRR
+  :YEAR: 2020
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/2002.08927v1
+ :END:
+
+cite:kumar20_regul_autoen_via_relax_injec_probab_flow
+tags:flow,injection
+
+*** Main conclusion
+    $$\begin{aligned}
+    \ln p(x) \geq \ln p(h(x))-\frac{d}{2} \ln \left(\frac{1}{d} \sum_{i} s_{i}^{2}\right) \\
+    =\ln p(h(x))-\frac{d}{2} \ln \left(\frac{1}{d}\left\|J_{g}(h(x))\right\|_{F}^{2}\right) \\
+    \text { s.t. } x=g(h(x))
+    \end{aligned}$$
+
+** TODO 2017 - Spectral Norm Regularization for Improving the Generalizability of Deep Learning
+ :PROPERTIES:
+  :Custom_ID: yoshida17_spect_norm_regul_improv_gener_deep_learn
+  :AUTHOR: Yoshida \& Miyato
+  :JOURNAL: CoRR
+  :YEAR: 2017
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1705.10941v1
+  :ID:       95a0f823-78e6-48a8-b823-2598032a28be
+ :END:
+
+cite:yoshida17_spect_norm_regul_improv_gener_deep_learn
+tags:spectral_norm
+
+** TODO 2013 - Advances in Spatial and Temporal Databases
+ :PROPERTIES:
+  :Custom_ID: 13_advan_spatial_tempor_datab
+  :AUTHOR:
+  :JOURNAL:
+  :YEAR: 2013
+  :VOLUME:
+  :PAGES: nil
+  :DOI: 10.1007/978-3-642-40235-7
+  :URL: https://doi.org/10.1007/978-3-642-40235-7
+ :END:
+
+cite:13_advan_spatial_tempor_datab
+tags:database,tree
+
+** TODO 1999 - The hybrid tree: an index structure for high dimensional feature spaces
+ :PROPERTIES:
+  :Custom_ID: the_hybrid_tree
+  :AUTHOR: Chakrabarti \& Mehrotra
+  :JOURNAL:
+  :YEAR: 1999
+  :VOLUME:
+  :PAGES: 440-447
+  :DOI:
+  :URL:
+ :END:
+
+cite:the_hybrid_tree
+tags:database,tree
+
+** TODO 1996 - The X-Tree: An Index Structure for High-Dimensional Data
+ :PROPERTIES:
+  :Custom_ID: the_x_tree_an_index_structure
+  :AUTHOR: Berchtold, Keim \& Kriegel
+  :JOURNAL:
+  :YEAR: 1996
+  :VOLUME:
+  :PAGES: 28–39
+  :DOI:
+  :URL:
+ :END:
+
+cite:the_x_tree_an_index_structure
+tags:database,tree
+
+** TODO 2006 - Mkl-Tree: an Index Structure for High-Dimensional Vector Spaces
+ :PROPERTIES:
+  :Custom_ID: franco06_mkl_tree
+  :AUTHOR: Annalisa Franco, Alessandra Lumini \& Dario Maio
+  :JOURNAL: Multimedia Systems
+  :YEAR: 2006
+  :VOLUME: 12
+  :PAGES: 533-550
+  :DOI: 10.1007/s00530-006-0070-9
+  :URL: https://doi.org/10.1007/s00530-006-0070-9
+ :END:
+
+cite:franco06_mkl_tree
+tags:database,tree
+
+** TODO 2004 - Decoupling Partitioning and Grouping: Overcoming Shortcomings of Spatial Indexing with Bucketing
+ :PROPERTIES:
+  :Custom_ID: samet2004_decoup_parti_and_group_overcom_shortcom_of_spatial_index_with_bucket
+  :AUTHOR: Samet
+  :JOURNAL: ACM Trans. Database Syst.
+  :YEAR: 2004
+  :VOLUME: 29
+  :PAGES: 789–830
+  :DOI: 10.1145/1042046.1042052
+  :URL: https://doi.org/10.1145/1042046.1042052
+ :END:
+
+cite:samet2004_decoup_parti_and_group_overcom_shortcom_of_spatial_index_with_bucket
+tags:database,tree
+** TODO 2017 - Bounding and Counting Linear Regions of Deep Neural Networks
+ :PROPERTIES:
+  :Custom_ID: serra17_bound_count_linear_region_deep_neural_networ
+  :AUTHOR: Serra, Tjandraatmadja \& Ramalingam
+  :JOURNAL: CoRR
+  :YEAR: 2017
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1711.02114v4
+ :END:
+
+cite:serra17_bound_count_linear_region_deep_neural_networ
+tags:database,tree
+
+** TODO 1995 - The hBPi/-tree: A Modified hB-tree Supporting Concurrency, Recovery and Node Consolidation
+ :PROPERTIES:
+  :Custom_ID: evangelidis1995_hbpi_tree
+  :AUTHOR: Evangelidis, Lomet \& Salzberg
+  :JOURNAL:
+  :YEAR: 1995
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL:
+ :END:
+
+cite:evangelidis1995_hbpi_tree
+tags:database,tree
+
+** TODO 1998 - Multidimensional Access Methods
+ :PROPERTIES:
+  :Custom_ID: gaede1998_multidimensional_access_methods
+  :AUTHOR: Gaede \& G\"unther
+  :JOURNAL: ACM Comput. Surv.
+  :YEAR: 1998
+  :VOLUME: 30
+  :PAGES: 170–231
+  :DOI: 10.1145/280277.280279
+  :URL: https://doi.org/10.1145/280277.280279
+ :END:
+
+cite:gaede1998_multidimensional_access_methods
+tags:database,tree
+
+** TODO 2015 - Large-Scale Log-Determinant Computation Through Stochastic Chebyshev Expansions
+ :PROPERTIES:
+  :Custom_ID: han15_large_scale_log_deter_comput
+  :AUTHOR: Han, Malioutov \& Shin
+  :JOURNAL: CoRR
+  :YEAR: 2015
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1503.06394v1
+ :END:
+
+cite:han15_large_scale_log_deter_comput
+tags:monte_carlo,logdet,chebyshev
+
+** TODO 2000 - An Information Maximization Approach to Overcomplete and Recurrent Representations
+ :PROPERTIES:
+  :Custom_ID: oren2000_an_info_max_appro_to_overcomplete
+  :AUTHOR: Oren Shriki, Haim Sompolinsky \& Daniel Lee
+  :JOURNAL:
+  :YEAR: 2000
+  :VOLUME:
+  :PAGES: 612-618
+  :DOI:
+  :URL: http://papers.nips.cc/paper/1863-an-information-maximization-approach-to-overcomplete-and-recurrent-representations
+ :END:
+
+cite:oren2000_an_info_max_appro_to_overcomplete
+tags:
+
+** TODO 2017 - Scalable Log Determinants for Gaussian Process Kernel Learning
+ :PROPERTIES:
+  :CUSTOM_ID: dong17_scalab_log_deter_gauss_proces_kernel_learn
+  :AUTHOR: Dong, Eriksson, Nickisch, Bindel \& Wilson
+  :JOURNAL: CoRR
+  :YEAR: 2017
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1711.03481v1
+ :END:
+
+cite:dong17_scalab_log_deter_gauss_proces_kernel_learn
+tags:logdet,lanczos
+
+** TODO 2015 - A Randomized Algorithm for Approximating the Log Determinant of a Symmetric Positive Definite Matrix
+ :PROPERTIES:
+  :CUSTOM_ID: boutsidis15_random_algor_approx_log_deter
+  :AUTHOR: Boutsidis, Drineas, Kambadur, Kontopoulou \& Zouzias
+  :JOURNAL: CoRR
+  :YEAR: 2015
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1503.00374v2
+ :END:
+
+cite:boutsidis15_random_algor_approx_log_deter
+tags:logdet,taylor
+
+** TODO 2015 - A Fast Incremental Gaussian Mixture Model
+ :PROPERTIES:
+  :CUSTOM_ID: pinto15_fast_increm_gauss_mixtur_model
+  :AUTHOR: Pinto \& Engel
+  :JOURNAL: CoRR
+  :YEAR: 2015
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1506.04422v2
+ :END:
+
+cite:pinto15_fast_increm_gauss_mixtur_model
+tags:continual_learning,density_estimation,mixture_gaussian,cifar10
+
+** TODO 2015 - Rectangular Maximum-Volume Submatrices and Their Applications
+ :PROPERTIES:
+  :CUSTOM_ID: mikhalev15_rectan_maxim_volum_submat_their_applic
+  :AUTHOR: Mikhalev \& Oseledets
+  :JOURNAL: CoRR
+  :YEAR: 2015
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1502.07838v4
+ :END:
+
+cite:mikhalev15_rectan_maxim_volum_submat_their_applic
+tags:cauchy-binet,submatrix,logdet
+source code: https://pypi.org/project/maxvolpy/
+
+** TODO 2019 - Enhanced Convolutional Neural Tangent Kernels
+ :PROPERTIES:
+  :CUSTOM_ID: li19_enhan_convol_neural_tangen_kernel
+  :AUTHOR: Li, Wang, Yu, Du, Hu, Salakhutdinov \& Arora
+  :JOURNAL: CoRR
+  :YEAR: 2019
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1911.00809v1
+ :END:
+
+cite:li19_enhan_convol_neural_tangen_kernel
+tags:ntk
+
+** TODO 2019 - What Can Resnet Learn Efficiently, Going Beyond Kernels?
+ :PROPERTIES:
+  :CUSTOM_ID: allen-zhu19_what_can_resnet_learn_effic
+  :AUTHOR: Allen-Zhu \& Li
+  :JOURNAL: CoRR
+  :YEAR: 2019
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1905.10337v3
+ :END:
+
+cite:allen-zhu19_what_can_resnet_learn_effic
+tags:ntk
+
+** TODO 2018 - On Lazy Training in Differentiable Programming
+ :PROPERTIES:
+  :CUSTOM_ID: chizat18_lazy_train_differ_progr
+  :AUTHOR: Chizat, Oyallon \& Bach
+  :JOURNAL: CoRR
+  :YEAR: 2018
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1812.07956v5
+ :END:
+
+cite:chizat18_lazy_train_differ_progr
+tags:ntk
+
+** TODO 2019 - Bayesian Inference for Large Scale Image Classification
+ :PROPERTIES:
+  :CUSTOM_ID: heek19_bayes_infer_large_scale_image_class
+  :AUTHOR: Heek \& Kalchbrenner
+  :JOURNAL: CoRR
+  :YEAR: 2019
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1908.03491v1
+ :END:
+
+cite:heek19_bayes_infer_large_scale_image_class
+tags:ntk
+
+** TODO 2019 - On Exact Computation With an Infinitely Wide Neural Net
+ :PROPERTIES:
+  :CUSTOM_ID: arora19_exact_comput_with_infin_wide_neural_net
+  :AUTHOR: Arora, Du, Hu, Li, Salakhutdinov \& Wang
+  :JOURNAL: CoRR
+  :YEAR: 2019
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1904.11955v2
+ :END:
+
+cite:arora19_exact_comput_with_infin_wide_neural_net
+tags:ntk
+
+** TODO 2018 - Neural Tangent Kernel: Convergence and Generalization in Neural Networks
+ :PROPERTIES:
+  :CUSTOM_ID: jacot18_neural_tangen_kernel
+  :AUTHOR: Jacot, Gabriel \& Hongler
+  :JOURNAL: CoRR
+  :YEAR: 2018
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1806.07572v4
+ :END:
+
+cite:jacot18_neural_tangen_kernel
+tags:ntk
+
+** TODO 2019 - A Fine-Grained Spectral Perspective on Neural Networks
+ :PROPERTIES:
+  :CUSTOM_ID: yang19_fine_grain_spect_persp_neural_networ
+  :AUTHOR: Yang \& Salman
+  :JOURNAL: CoRR
+  :YEAR: 2019
+  :VOLUME:
+  :PAGES:
+  :DOI:
+  :URL: http://arxiv.org/abs/1907.10599v4
+ :END:
+
+cite:yang19_fine_grain_spect_persp_neural_networ
+tags:ntk
